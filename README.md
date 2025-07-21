@@ -9,4 +9,4 @@ I'm Paulo Melo — a cybersecurity enthusiast passionate about defensive securit
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/paulomelosec/) | [Medium](https://medium.com/@pjsm.sec) | 📧 pjsm.sec@gmail.com  
 - ⚡ Fun fact: I'm an overly enthusiastic BJJ practicioner.
 
-> 🚀 You can check out my portfolio at [pjsm-sec.github.io](https://pjsm-sec.github.io)
+- 🚀 You can check out my portfolio at [pjsm-sec.github.io](https://pjsm-sec.github.io)
